@@ -4,7 +4,7 @@ const Owner = () => {
   return (
     <div className="text-center p-4 bg-white rounded-md shadow-md">
       <h1 className="text-2xl font-bold mb-2">Tob Genmate A - 08</h1>
-      <img src="./public/tob-profile.jpg" className="w-64 h-64 mx-auto mb-4"></img>
+      <img src="./tob-profile.jpg" className="w-64 h-64 mx-auto mb-4"></img>
       <h2 className="text-xl font-bold mb-2">Short Biography:</h2>
       <p className="text-gray-700">
         A passionate Full Stack Developer with hands-on experience as a Quality
