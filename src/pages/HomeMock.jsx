@@ -19,7 +19,7 @@ const mockEmployees = [
   },
 ]
 
-const Home = () => {
+const HomeMock = () => {
 
   return (
     <div>
@@ -30,4 +30,4 @@ const Home = () => {
 
 
 
-export default Home
+export default HomeMock
